@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Luksos9/Node.js-projects#readme",
   "dependencies": {
-    "slugify": "^1.6.5"
+    "slugify": "~1.6.5"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "~2.0.16"
   }
 }
